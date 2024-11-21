@@ -3,7 +3,7 @@ Problem Statement : Write a program to compute squares of 20-digit large integer
 Code
 package daa;
 import java.util.Scanner;
-public class Aug20 {
+public class ass1.java {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
